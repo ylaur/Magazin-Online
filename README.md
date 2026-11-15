@@ -1,1 +1,3 @@
 # Magazin-Online
+
+Inca ne gandim asupra ce nume sa ii dam proiectului...
